@@ -1,0 +1,21 @@
+﻿{
+  "nama": {
+    "depan": "Blog",
+    "tengah": "Mas",
+    "belakang": "Fendi"
+  },
+  "alamat": "Jogjakarta",
+  "umur": {
+    "umur1": 20,
+    "umur2": 30
+  },
+  "hobi": "berenang",
+  "pacar": {
+    "pertama": "ada deh",
+    "kedua": "samar-samar",
+    "ketiga":  "segera menyusul"
+  }
+   
+}
+
+
